@@ -27,4 +27,4 @@ GoDaddy doesn't offer an application to do this, so I wrote one for myself.
 
 ##### Feel free to fork this as you please and copy my docker container.
 
-**NOTE:** I made the docker container when I fairly new to Docker, so it can probably be made a bit smaller than the current iteration.
+**NOTE:** I made the docker container when I was fairly new to Docker, so it can probably be made a bit smaller than the current iteration.
