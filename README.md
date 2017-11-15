@@ -15,6 +15,10 @@ GoDaddy doesn't offer an application to do this, so I wrote one for myself.
 	* logging
 	* logging.handlers
 	* cgi
+* A "logs" directory
+	* Feel free to fork, modify and remove this if wanted. It just helps me with troubleshooting/debuging
+* A "screenshots" directory
+	* Feel free to fork, modify and remove this if wanted. It just helps me with troubleshooting/debuging
 
 
 ##### That said, I just run the script inside of my own Docker container; which has all of the above requirements
